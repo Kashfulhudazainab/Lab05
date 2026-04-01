@@ -1,1 +1,3 @@
-this is the irst file in the repo
+print("Hello, Git with forking!")
+
+print("Hello, Git with forking!")
